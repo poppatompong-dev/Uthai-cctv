@@ -1,0 +1,18 @@
+# Ignore temporary Python scripts
+*.py
+
+# Ignore text logs and notes
+*.txt
+*.log
+
+# Ignore chunk preview folders
+chunks/
+preview_chunks/
+
+# Ignore raw/unrenamed original photos and screenshots
+chat_img_*
+20260531_*
+20260608_*
+Screenshot_*
+screencapture-*
+429695.jpg
